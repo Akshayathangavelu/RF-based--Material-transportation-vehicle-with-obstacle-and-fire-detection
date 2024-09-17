@@ -73,5 +73,5 @@ For a detailed breakdown, refer to the [system architecture documentation](docs/
 ---
 
 ## 📈 Dashboard
-<img src=https://github.com/Boomihasri/Finance_analysis_dashboard/blob/main/CUSTOMER%20SATISFACTION%20DASHBOARD.png>
+<img src=https://github.com/Akshayathangavelu/RF-BASED-MATERIAL-TRANSPORTATION-VEHICLE-WITH-OBSTACLE-AND-FIRE-DETECTION/blob/main/OUTPUT.jpg>
 

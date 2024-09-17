@@ -72,12 +72,6 @@ For a detailed breakdown, refer to the [system architecture documentation](docs/
 
 ---
 
-## ⚙️ Installation
-### Hardware Setup
-1. 🔌 Connect all components such as the fire sensor, obstacle sensor, motor driver, and RF modules to the Arduino board according to the wiring diagram.
-2. 🔋 Power up the system using a 9V battery or external power supply.
+## 📈 Dashboard
+<img src=https://github.com/Boomihasri/Finance_analysis_dashboard/blob/main/CUSTOMER%20SATISFACTION%20DASHBOARD.png>
 
-### Software Setup
-1. 🖥️ Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/Industrial-Automation-Vehicle-Control-System.git
